@@ -1,0 +1,17 @@
+{
+  "name": "import-excel-node",
+  "version": "1.0.0",
+  "description": "=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=\r LICENSE\r =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=",
+  "main": "import.js",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.20",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "nodemon import.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
